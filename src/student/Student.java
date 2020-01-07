@@ -11,7 +11,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author user
+ *Sangeetha user
  */
 public class Student {
 
