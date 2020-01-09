@@ -21,7 +21,7 @@ public class Student {
     public static void main(String[] args) {
         Studentclass [] s= new Studentclass[5];
        // student st1= new student();
-       // st1.setName("Megha");
+       // st1.setName("Sanggetha");
        // s[0]=st1;
         Scanner scan= new Scanner(System.in);
         System.out.println("length: "+s.length);
