@@ -31,6 +31,12 @@ public class Student {
             System.out.println("Enter names");
             s[i].setName(scan.nextLine());
         }
+         System.out.println("The student names: ");
+         for(int i=0;i<s.length;i++)
+        {
+                  
+            System.out.println(s[i].getName());
+        }
         
     }
     
